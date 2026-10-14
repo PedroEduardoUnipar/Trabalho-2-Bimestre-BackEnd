@@ -1,4 +1,4 @@
-package br.unipar.backend.trabalho1bi.model;
+package br.unipar.backend.trabalho2bi.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

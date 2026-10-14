@@ -1,6 +1,6 @@
-package br.unipar.backend.trabalho1bi.repository;
+package br.unipar.backend.trabalho2bi.repository;
 
-import br.unipar.backend.trabalho1bi.model.Veiculo;
+import br.unipar.backend.trabalho2bi.model.Veiculo;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

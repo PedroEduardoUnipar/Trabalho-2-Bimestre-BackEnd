@@ -1,10 +1,10 @@
-package br.unipar.backend.trabalho1bi;
+package br.unipar.backend.trabalho2bi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Trabalho1biApplicationTests {
+class Trabalho2biApplicationTests {
 
     @Test
     void contextLoads() {

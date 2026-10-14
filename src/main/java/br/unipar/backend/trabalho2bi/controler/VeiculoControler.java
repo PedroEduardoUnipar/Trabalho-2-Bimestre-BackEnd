@@ -1,7 +1,7 @@
-package br.unipar.backend.trabalho1bi.controler;
+package br.unipar.backend.trabalho2bi.controler;
 
-import br.unipar.backend.trabalho1bi.model.Veiculo;
-import br.unipar.backend.trabalho1bi.repository.VeiculoRepository;
+import br.unipar.backend.trabalho2bi.model.Veiculo;
+import br.unipar.backend.trabalho2bi.repository.VeiculoRepository;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,1 +1,1 @@
-CREATE DATABASE trabalho2bi;
+CREATE DATABASE "Trabalho2Bi";
